@@ -28,7 +28,7 @@ function App() {
       {!isSplashVisible && (
         <div className="bg-black text-foreground min-h-screen selection:bg-accent selection:text-white">
           <Navbar />
-          <main>
+          <main className="pt-10">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/detail" element={<Detail />} />
