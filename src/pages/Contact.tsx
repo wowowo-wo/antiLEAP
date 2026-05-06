@@ -43,7 +43,7 @@ const Contact = () => {
             href="mailto:antiLEAP@gmail.com" 
             className="text-xl md:text-2xl font-black break-all hover:text-accent underline decoration-4 underline-offset-8 transition-colors"
           >
-            antiLEAP@gmail.com
+            anti.leap@gmail.com
           </a>
         </section>
 
