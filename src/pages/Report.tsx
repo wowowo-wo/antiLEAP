@@ -90,12 +90,7 @@ const Report = () => {
         <p className="text-gray-400 font-bold mb-8 text-lg">
           当会では、メディア関係者の方々からの取材を随時受け付けています。
         </p>
-        <a 
-          href="/contact" 
-          className="text-accent font-black hover:underline text-xl"
-        >
-          CONTACT ページへ ➔
-        </a>
+          連絡先は CONTACT ページを参照してください。
       </div>
     </div>
   );
